@@ -1,12 +1,10 @@
-function HelloITI() {
-        console.log("Hello ITI!");
-    }
 
-function    printHelloGitHub() {
-        console.log("Hello GitHub!");
-    }
+export class print {
+  HelloITI() {
+    console.log("Hello ITI!");
+  }
 
-
-function printsohila() {
-    console.log("Hello Sohila!");
+  printHelloGitHub() {
+    console.log("Hello GitHub!");
+  }
 }
