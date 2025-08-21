@@ -7,4 +7,7 @@ export class print {
   printHelloGitHub() {
     console.log("Hello GitHub!");
   }
+  printsohila() {
+    console.log("Hello Sohila!");
+  }
 }
