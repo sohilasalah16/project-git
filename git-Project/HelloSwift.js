@@ -4,3 +4,5 @@ function printHelloWorld() {
 }
 
 print.HelloITI();
+
+print.printHelloGitHub();
