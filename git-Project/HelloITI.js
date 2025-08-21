@@ -1,9 +1,12 @@
-class print {
-    HelloITI() {
+function HelloITI() {
         console.log("Hello ITI!");
     }
 
-    printHelloGitHub() {
+function    printHelloGitHub() {
         console.log("Hello GitHub!");
     }
+
+
+function printsohila() {
+    console.log("Hello Sohila!");
 }
